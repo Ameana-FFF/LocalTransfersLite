@@ -1,0 +1,2 @@
+# LocalTransfersLite
+LocalTransfersLite(本地传输轻便版)是一个完全免费开源的安卓APP，具备局域网高速共享文件的能力，是手机之间共享大文件的可靠解决方案
